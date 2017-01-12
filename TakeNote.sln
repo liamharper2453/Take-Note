@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TakeNote", "TakeNote\TakeNote.vbproj", "{8A55B02B-6CDC-4EB0-BB7B-DE81C286FB8A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TakeNoteSetup", "TakeNoteSetup\TakeNoteSetup\TakeNoteSetup.vdproj", "{F8C9D386-FA02-430C-9DF6-FC933FE0FDB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A55B02B-6CDC-4EB0-BB7B-DE81C286FB8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A55B02B-6CDC-4EB0-BB7B-DE81C286FB8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A55B02B-6CDC-4EB0-BB7B-DE81C286FB8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A55B02B-6CDC-4EB0-BB7B-DE81C286FB8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8C9D386-FA02-430C-9DF6-FC933FE0FDB0}.Debug|Any CPU.ActiveCfg = Debug
+		{F8C9D386-FA02-430C-9DF6-FC933FE0FDB0}.Debug|Any CPU.Build.0 = Debug
+		{F8C9D386-FA02-430C-9DF6-FC933FE0FDB0}.Release|Any CPU.ActiveCfg = Release
+		{F8C9D386-FA02-430C-9DF6-FC933FE0FDB0}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://harperliam68.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = TakeNoteSetup\\TakeNoteSetup\\TakeNoteSetup.vdproj
+		SccProjectName0 = TakeNoteSetup/TakeNoteSetup
+		SccAuxPath0 = https://harperliam68.visualstudio.com/defaultcollection
+		SccLocalPath0 = TakeNoteSetup\\TakeNoteSetup
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName1 = TakeNote\\TakeNote.vbproj
+		SccProjectName1 = TakeNote
+		SccAuxPath1 = https://harperliam68.visualstudio.com/defaultcollection
+		SccLocalPath1 = TakeNote
+		SccProvider1 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal

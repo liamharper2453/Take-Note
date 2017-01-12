@@ -1,0 +1,137 @@
+G:\S6\3-D Array Test\TakeNote\bin\Debug\TakeNote.exe
+G:\S6\3-D Array Test\TakeNote\bin\Debug\TakeNote.pdb
+G:\S6\3-D Array Test\TakeNote\bin\Debug\TakeNote.xml
+G:\S6\3-D Array Test\TakeNote\obj\Debug\ResolveAssemblyReference.cache
+G:\S6\3-D Array Test\TakeNote\obj\Debug\WindowsApplication1.About.resources
+G:\S6\3-D Array Test\TakeNote\obj\Debug\WindowsApplication1.Welcome.resources
+G:\S6\3-D Array Test\TakeNote\obj\Debug\WindowsApplication1.NoteSelection.resources
+G:\S6\3-D Array Test\TakeNote\obj\Debug\WindowsApplication1.NoteViewer.resources
+G:\S6\3-D Array Test\TakeNote\obj\Debug\WindowsApplication1.Resources.resources
+G:\S6\3-D Array Test\TakeNote\obj\Debug\TakeNote.vbproj.GenerateResource.Cache
+G:\S6\3-D Array Test\TakeNote\obj\Debug\TakeNote.exe
+G:\S6\3-D Array Test\TakeNote\obj\Debug\TakeNote.xml
+G:\S6\3-D Array Test\TakeNote\obj\Debug\TakeNote.pdb
+E:\S6\3-D Array Test\TakeNote\obj\Debug\TakeNote.exe
+E:\S6\3-D Array Test\TakeNote\obj\Debug\TakeNote.xml
+E:\S6\3-D Array Test\TakeNote\obj\Debug\TakeNote.pdb
+E:\S6\3-D Array Test\TakeNote\bin\Debug\TakeNote.exe
+E:\S6\3-D Array Test\TakeNote\bin\Debug\TakeNote.pdb
+E:\S6\3-D Array Test\TakeNote\bin\Debug\TakeNote.xml
+E:\S6\3-D Array Test\TakeNote\obj\Debug\ResolveAssemblyReference.cache
+E:\S6\3-D Array Test\TakeNote\obj\Debug\WindowsApplication1.About.resources
+E:\S6\3-D Array Test\TakeNote\obj\Debug\WindowsApplication1.Welcome.resources
+E:\S6\3-D Array Test\TakeNote\obj\Debug\WindowsApplication1.NoteSelection.resources
+E:\S6\3-D Array Test\TakeNote\obj\Debug\WindowsApplication1.NoteViewer.resources
+E:\S6\3-D Array Test\TakeNote\obj\Debug\WindowsApplication1.Resources.resources
+E:\S6\3-D Array Test\TakeNote\obj\Debug\TakeNote.vbproj.GenerateResource.Cache
+G:\S6\TakeNote\TakeNote\obj\Debug\TakeNote.exe
+G:\S6\TakeNote\TakeNote\obj\Debug\TakeNote.xml
+G:\S6\TakeNote\TakeNote\obj\Debug\TakeNote.pdb
+G:\S6\TakeNote\TakeNote\bin\Debug\TakeNote.exe
+G:\S6\TakeNote\TakeNote\bin\Debug\TakeNote.pdb
+G:\S6\TakeNote\TakeNote\bin\Debug\TakeNote.xml
+G:\S6\TakeNote\TakeNote\obj\Debug\ResolveAssemblyReference.cache
+G:\S6\TakeNote\TakeNote\obj\Debug\WindowsApplication1.About.resources
+G:\S6\TakeNote\TakeNote\obj\Debug\WindowsApplication1.Welcome.resources
+G:\S6\TakeNote\TakeNote\obj\Debug\WindowsApplication1.NoteSelection.resources
+G:\S6\TakeNote\TakeNote\obj\Debug\WindowsApplication1.NoteViewer.resources
+G:\S6\TakeNote\TakeNote\obj\Debug\WindowsApplication1.Resources.resources
+G:\S6\TakeNote\TakeNote\obj\Debug\TakeNote.vbproj.GenerateResource.Cache
+E:\S6\TakeNote\TakeNote\obj\Debug\TakeNote.exe
+E:\S6\TakeNote\TakeNote\obj\Debug\TakeNote.xml
+E:\S6\TakeNote\TakeNote\obj\Debug\TakeNote.pdb
+E:\S6\TakeNote\TakeNote\bin\Debug\TakeNote.exe
+E:\S6\TakeNote\TakeNote\bin\Debug\TakeNote.pdb
+E:\S6\TakeNote\TakeNote\bin\Debug\TakeNote.xml
+E:\S6\TakeNote\TakeNote\obj\Debug\ResolveAssemblyReference.cache
+E:\S6\TakeNote\TakeNote\obj\Debug\WindowsApplication1.About.resources
+E:\S6\TakeNote\TakeNote\obj\Debug\WindowsApplication1.Welcome.resources
+E:\S6\TakeNote\TakeNote\obj\Debug\WindowsApplication1.NoteSelection.resources
+E:\S6\TakeNote\TakeNote\obj\Debug\WindowsApplication1.NoteViewer.resources
+E:\S6\TakeNote\TakeNote\obj\Debug\WindowsApplication1.Resources.resources
+E:\S6\TakeNote\TakeNote\obj\Debug\TakeNote.vbproj.GenerateResource.Cache
+C:\Users\Liam\Desktop\TakeNote\TakeNote\obj\Debug\TakeNote.exe
+C:\Users\Liam\Desktop\TakeNote\TakeNote\obj\Debug\TakeNote.xml
+C:\Users\Liam\Desktop\TakeNote\TakeNote\obj\Debug\TakeNote.pdb
+C:\Users\Liam\Desktop\TakeNote\TakeNote\bin\Debug\TakeNote.exe
+C:\Users\Liam\Desktop\TakeNote\TakeNote\bin\Debug\TakeNote.pdb
+C:\Users\Liam\Desktop\TakeNote\TakeNote\bin\Debug\TakeNote.xml
+C:\Users\Liam\Desktop\TakeNote\TakeNote\obj\Debug\TakeNote.vbprojResolveAssemblyReference.cache
+C:\Users\Liam\Desktop\TakeNote\TakeNote\obj\Debug\WindowsApplication1.About.resources
+C:\Users\Liam\Desktop\TakeNote\TakeNote\obj\Debug\WindowsApplication1.Welcome.resources
+C:\Users\Liam\Desktop\TakeNote\TakeNote\obj\Debug\WindowsApplication1.NoteSelection.resources
+C:\Users\Liam\Desktop\TakeNote\TakeNote\obj\Debug\WindowsApplication1.NoteViewer.resources
+C:\Users\Liam\Desktop\TakeNote\TakeNote\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Liam\Desktop\TakeNote\TakeNote\obj\Debug\TakeNote.vbproj.GenerateResource.Cache
+G:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.exe
+G:\S6\TakeNote VS 2015\TakeNote\bin\Debug\TakeNote.exe
+G:\S6\TakeNote VS 2015\TakeNote\bin\Debug\TakeNote.pdb
+G:\S6\TakeNote VS 2015\TakeNote\bin\Debug\TakeNote.xml
+G:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.About.resources
+G:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.Welcome.resources
+G:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.NoteSelection.resources
+G:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.NoteViewer.resources
+G:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.Resources.resources
+G:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.vbproj.GenerateResource.Cache
+G:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.xml
+G:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.pdb
+G:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.Settings.resources
+G:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.OutputFramework.resources
+C:\Users\Liam\Downloads\USB Backup2\S6\TakeNote VS 2015\TakeNote\bin\Debug\TakeNote.exe.config
+C:\Users\Liam\Downloads\USB Backup2\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.exe
+C:\Users\Liam\Downloads\USB Backup2\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.xml
+C:\Users\Liam\Downloads\USB Backup2\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.pdb
+C:\Users\Liam\Downloads\USB Backup2\S6\TakeNote VS 2015\TakeNote\bin\Debug\TakeNote.exe
+C:\Users\Liam\Downloads\USB Backup2\S6\TakeNote VS 2015\TakeNote\bin\Debug\TakeNote.pdb
+C:\Users\Liam\Downloads\USB Backup2\S6\TakeNote VS 2015\TakeNote\bin\Debug\TakeNote.xml
+C:\Users\Liam\Downloads\USB Backup2\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.vbprojResolveAssemblyReference.cache
+C:\Users\Liam\Downloads\USB Backup2\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.About.resources
+C:\Users\Liam\Downloads\USB Backup2\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.Welcome.resources
+C:\Users\Liam\Downloads\USB Backup2\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.NoteSelection.resources
+C:\Users\Liam\Downloads\USB Backup2\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.NoteViewer.resources
+C:\Users\Liam\Downloads\USB Backup2\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.Settings.resources
+C:\Users\Liam\Downloads\USB Backup2\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.Resources.resources
+C:\Users\Liam\Downloads\USB Backup2\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.OutputFramework.resources
+C:\Users\Liam\Downloads\USB Backup2\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.vbproj.GenerateResource.Cache
+C:\S6\TakeNote VS 2015\TakeNote\bin\Debug\TakeNote.exe.config
+C:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.exe
+C:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.xml
+C:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.pdb
+C:\S6\TakeNote VS 2015\TakeNote\bin\Debug\TakeNote.exe
+C:\S6\TakeNote VS 2015\TakeNote\bin\Debug\TakeNote.pdb
+C:\S6\TakeNote VS 2015\TakeNote\bin\Debug\TakeNote.xml
+C:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.vbprojResolveAssemblyReference.cache
+C:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.About.resources
+C:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.Welcome.resources
+C:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.NoteSelection.resources
+C:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.NoteViewer.resources
+C:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.Settings.resources
+C:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.Resources.resources
+C:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.OutputFramework.resources
+C:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.vbproj.GenerateResource.Cache
+E:\S6\TakeNote VS 2015\TakeNote\bin\Debug\TakeNote.exe.config
+E:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.exe
+E:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.xml
+E:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.pdb
+E:\S6\TakeNote VS 2015\TakeNote\bin\Debug\TakeNote.exe
+E:\S6\TakeNote VS 2015\TakeNote\bin\Debug\TakeNote.pdb
+E:\S6\TakeNote VS 2015\TakeNote\bin\Debug\TakeNote.xml
+E:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.About.resources
+E:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.Welcome.resources
+E:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.NoteSelection.resources
+E:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.NoteViewer.resources
+E:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.Settings.resources
+E:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.Resources.resources
+E:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.OutputFramework.resources
+E:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.vbproj.GenerateResource.Cache
+G:\S6\TakeNote VS 2015\TakeNote\bin\Debug\TakeNote.exe.manifest
+G:\S6\TakeNote VS 2015\TakeNote\bin\Debug\TakeNote.application
+G:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.exe.manifest
+G:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.application
+E:\S6\TakeNote VS 2015\TakeNote\bin\Debug\TakeNote.exe.manifest
+E:\S6\TakeNote VS 2015\TakeNote\bin\Debug\TakeNote.application
+E:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.exe.manifest
+E:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.application
+G:\S6\TakeNote VS 2015\TakeNote\bin\Debug\TakeNote.exe.config
+G:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.vbprojResolveAssemblyReference.cache
+E:\S6\TakeNote VS 2015\TakeNote\obj\Debug\TakeNote.vbprojResolveAssemblyReference.cache
